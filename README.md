@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I'm Jeeva D. - a Data Engineer and Python Developer, currently making strides at CustomerLabs and Vanna AI.
+👋 Hi, I'm Jeeva D. - a Data Engineer and Python Developer, currently making strides at CustomerLabs.
 
 ## 🧑‍💻 Professional Journey
 
