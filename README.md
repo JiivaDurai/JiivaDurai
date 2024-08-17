@@ -11,6 +11,16 @@ I specialize in Python, Java, Node.js, and Go, focusing on leveraging Google Clo
 - **OpenAI and BigQuery Integration**: Developing a system to generate and run optimized SQL queries, enhance marketing analytics, and automate data retrieval and schema management.
 - **Chatbot API for SQL Analytics**: Building a Google-level advanced mechanism to interact with SQL databases via a chat interface, aiming to make analytics more accessible.
 
+- **EduCrag_ChatGPT**
+
+    EduCrag_ChatGPT is a personal initiative aimed at revolutionizing the way students access and interact with educational content. This project leverages advanced AI-driven automation and state-of-the-art web scraping     technologies to provide tailored educational resources. The goal is to simplify the learning process, making educational content more accessible and engaging for students worldwide.
+
+  **Key Features**:
+  - **AI-Driven Interactions**: Utilize AI to facilitate interactive learning experiences.
+  - **Advanced Web Scraping**: Employ cutting-edge scraping tools to gather and process educational materials from diverse web sources.
+  - **Customization and Personalization**: Offer personalized learning pathways based on individual student needs and preferences.
+
+
 ## 📚 Continuous Learning
 
 I am constantly exploring new technologies and trends in AI and cloud computing, currently enriching my Java knowledge for new professional challenges.
